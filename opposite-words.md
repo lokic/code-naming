@@ -64,4 +64,6 @@
 | different / similar | 不同的 / 相似的 |
 | little / much | 少 / 多 |
 | small / big | 小 / 大 |
+| publish / subscribe | 发布 / 订阅 |
+| attach / detach | 附加 / 分离 |
 
