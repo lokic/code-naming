@@ -9,3 +9,6 @@
 | update                | 更新        |
 | listener              | 监听器      |
 | register / unregister | 注册 / 注销 |
+| publish / subscribe   | 发布 / 订阅 |
+| send / receive        | 发送 / 接收 |
+
