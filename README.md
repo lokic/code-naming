@@ -21,7 +21,7 @@
 
 [观察者模式](observer-pattern.md)
 
-
+[装饰器模式](decorator-pattern.md)
 
 
 
