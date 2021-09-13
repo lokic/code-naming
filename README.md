@@ -23,9 +23,9 @@
 
 [装饰器模式](decorator-pattern.md)
 
-[工厂模式](factory-pattern)
+[工厂模式](factory-pattern.md)
 
-[策略模式](strategy-pattern)
+[策略模式](strategy-pattern.md)
 
 
 
